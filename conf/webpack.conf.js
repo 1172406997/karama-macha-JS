@@ -14,7 +14,7 @@ const config = {
         libraryTarget:'umd'
     },
     module:{
-        rules:[{            test:/\.js$/,
+        rules:[{test:/\.js$/,
         }]
     },
 }
